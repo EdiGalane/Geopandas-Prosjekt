@@ -1,0 +1,2 @@
+# Geopandas-Prosjekt
+Applikasjon for å analysere båtruter 
